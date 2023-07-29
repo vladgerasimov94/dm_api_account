@@ -8,7 +8,7 @@ REQUIRES = [
 
 setup(
     name='dm_api_account',
-    version='0.0.2',
+    version='0.0.3',
     packages=find_packages(),
     url='https://github.com/vladgerasimov94/dm_api_account.git',
     license='MIT',
