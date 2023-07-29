@@ -9,7 +9,7 @@ REQUIRES = [
 setup(
     name='dm_api_account',
     version='0.0.2',
-    packages=['dm_api_account'],
+    packages=['dm_api_account', "dm_api_account.apis", "dm_api_account.models"],
     url='https://github.com/vladgerasimov94/dm_api_account.git',
     license='MIT',
     author='Vladislav Gerasimov',
